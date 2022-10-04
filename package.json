@@ -1,7 +1,8 @@
 {
-  "name": "strapi-provider-upload-imagekit",
+  "name": "@shoaibmerchant/strapi-provider-upload-imagekit",
   "description": "ImageKit provider for strapi upload",
-  "version": "4.0.2",
+  "version": "4.0.3",
+  "private": false,
   "main": "./lib",
   "dependencies": {
     "imagekit": "^3.2.3"
